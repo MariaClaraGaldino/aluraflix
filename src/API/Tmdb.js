@@ -1,5 +1,4 @@
 const API_KEY = process.env.REACT_APP_ACESSO_KEY;
-console.log('API_KEY:', API_KEY); // Verifica se a chave está sendo carregada
 
 const API_BASE = 'https://api.themoviedb.org/3'
 
