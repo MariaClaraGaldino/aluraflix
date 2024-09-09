@@ -1,4 +1,4 @@
-const API_KEY = process.env.REACT_APP_ACESSO_KEY;
+const API_KEY = "00ba0d437bbed708fab34c089bd87bce";
 
 const API_BASE = 'https://api.themoviedb.org/3'
 
